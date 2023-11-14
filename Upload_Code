@@ -20,11 +20,10 @@ using System.ComponentModel.DataAnnotations;
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
         public virtual Category? Category { get; set; }
-		[ForeignKey("Discount")]
-		public int DiscountId { get; set; }
-		public virtual Discount? Discount  { get; set; }
-
-	}
+	[ForeignKey("Discount")]
+	public int DiscountId { get; set; }
+	public virtual Discount? Discount  { get; set; }
+     }
 }
 
 
@@ -56,7 +55,6 @@ using System.ComponentModel.DataAnnotations;
         public string? Email { get; set; }
         public string? Password { get; set; }
         public string? Role { get; set; }
-
     }
 }
 
