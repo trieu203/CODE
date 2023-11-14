@@ -26,12 +26,18 @@
 
 # Class
 # Category
+using System.ComponentModel.DataAnnotations;
+namespace doancsn.Models
 {
-    [key]
-    public int Id { get; set; }
-    public string? Name { get; set; }
+    public class Category
+    {
+        [Key]
+        public int Id { get; set; }
+        public string? Name { get; set; }
 
+    }
 }
+
 
 # Class
 # User
