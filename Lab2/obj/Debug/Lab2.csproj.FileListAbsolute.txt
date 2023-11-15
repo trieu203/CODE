@@ -1,0 +1,6 @@
+D:\LNT DA21TTA\110121067DA21TTA\Lab2\bin\Debug\Lab2.exe.config
+D:\LNT DA21TTA\110121067DA21TTA\Lab2\bin\Debug\Lab2.exe
+D:\LNT DA21TTA\110121067DA21TTA\Lab2\bin\Debug\Lab2.pdb
+D:\LNT DA21TTA\110121067DA21TTA\Lab2\obj\Debug\Lab2.exe
+D:\LNT DA21TTA\110121067DA21TTA\Lab2\obj\Debug\Lab2.pdb
+D:\LNT DA21TTA\110121067DA21TTA\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
