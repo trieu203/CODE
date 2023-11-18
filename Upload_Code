@@ -251,3 +251,33 @@ using System.ComponentModel.DataAnnotations.Schema;
 				<span class="sale">-30%</span>
 				<span class="new">NEW</span>
 </div>
+
+
+# Tùy chọn tìm kiếm
+
+<div class="store-filter clearfix">
+				<div class="store-sort">
+					<label>
+						Săp xếp:
+						<select class="input-select">
+							<option value="0">Phổ biến</option>
+							<option value="1">Mới</option>
+						</select>
+					</label>
+
+					<label>
+						Xem thêm:
+						<select class="input-select">
+							<option value="0">1</option>
+							<option value="1">2</option>
+							<option value="2">3</option>
+						</select>
+					</label>
+				</div>
+				<ul class="store-grid">
+					<li class="active"><i class="fa fa-th"></i></li>
+					<li><a href="#"><i class="fa fa-th-list"></i></a></li>
+				</ul>
+</div>
+
+
