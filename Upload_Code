@@ -245,3 +245,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 </div>
 
 
+@ Giảm giá
+
+<div class="product-label">
+				<span class="sale">-30%</span>
+				<span class="new">NEW</span>
+</div>
