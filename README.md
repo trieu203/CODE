@@ -12,6 +12,4 @@
 -git push -u origin main
 
 
-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
-
 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
